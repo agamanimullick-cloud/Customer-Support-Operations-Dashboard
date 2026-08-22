@@ -1,8 +1,10 @@
 # Phase 2 - Workflow and Automation:
 
-## New → Triage → Assigned → In Progress → Waiting for Customer → Resolved → Closed
+## Workflow
 
-## The logic is:
+New → Triage → Assigned → In Progress → Waiting for Customer → Resolved → Closed
+
+The logic is:
 
 - New — ticket just entered the system
 - Triage — someone reviews type, priority, and queue
