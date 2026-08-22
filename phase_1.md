@@ -1,4 +1,4 @@
-Phase 1 - Data Preparation
+## Phase 1 - Data Preparation
 
 # Objective
 
