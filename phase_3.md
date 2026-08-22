@@ -1,4 +1,4 @@
-# Phase 2 - Workflow and Automation:
+# Phase 3 - Workflow and Automation:
 
 ## Workflow
 
