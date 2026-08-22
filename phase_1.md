@@ -1,10 +1,10 @@
-## Phase 1 - Data Preparation
+# Phase 1 - Data Preparation
 
-# Objective
+## Objective
 
 The objective of Phase 1 was to prepare a customer support dataset from Kaggle for use in Jira.The dataset was cleaned using Python and Pandas so that it could be imported into Jira in a structured and consistent format.
 
-# Original Dataset
+## Original Dataset
 
 The original dataset contained 4,000 customer support tickets in multiple languages.
 
@@ -21,7 +21,7 @@ Business type
 Multiple tag columns
 Cleaning Steps
 
-# Cleaning
+## Cleaning
 
 1. Filtered the Dataset to English Only
 
@@ -76,7 +76,7 @@ Final Dataset
 
 The cleaned dataset contains English-language customer support tickets prepared for import into Jira.
 
-# The final fields include:
+## The final fields include:
 
 Ticket ID
 Customer Subject
