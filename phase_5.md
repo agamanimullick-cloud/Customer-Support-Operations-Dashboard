@@ -108,9 +108,12 @@ if "Jira Key" not in df.columns:
 
 ## Detecting New Customer Enquiries
 
-Only new customer enquiries should be sent to Jira.
 
-The historical dataset ended at Ticket ID 1391, so the following condition was used:
+A customer enquiry therefore qualifies as new when:
+
+1. Its Ticket ID is greater than 1391
+2. Its Jira Key is still empty
+
 
 ```python
 new_rows = df[
@@ -118,14 +121,6 @@ new_rows = df[
     (df["Jira Key"].isna())
 ]
 ```
-
-A customer enquiry therefore qualifies as new when:
-
-1. Its Ticket ID is greater than 1391
-2. Its Jira Key is still empty
-
-This also helps prevent the same enquiry from being created multiple times.
-
 ---
 
 ## Jira Custom Field Identification
