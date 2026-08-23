@@ -20,14 +20,14 @@ The aim is to simulate a real business support environment where customer ticket
 - **Jira** — ticket management, workflows, automation, and dashboards
 - **Make** — integration between Jira and external applications
 - **Gmail** — automated customer communication
-- **GitHub** — project documentation and version control
-- **Python / Pandas** — optional data cleaning and analysis
+- **GitHub** — project documentation 
+- **Python / Pandas** — optional data cleaning and automation 
 
 ## Project Phases
 1. Dataset preparation
 2. Jira project setup and data import
 3. Jira workflow design
 4. Jira internal automation
-5. 
+5. Automated Customer Intake: Excel to Jira Using Python
 6. Jira and Gmail integration using Make
 7. Dashboard and KPI development
