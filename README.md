@@ -28,5 +28,6 @@ The aim is to simulate a real business support environment where customer ticket
 2. Jira project setup and data import
 3. Jira workflow design
 4. Jira internal automation
-5. Jira and Gmail integration using Make
-6. Dashboard and KPI development
+5. 
+6. Jira and Gmail integration using Make
+7. Dashboard and KPI development
