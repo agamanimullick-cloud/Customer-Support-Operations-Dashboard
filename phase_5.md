@@ -30,20 +30,6 @@ This allows new customer enquiries to be transferred into Jira without manually 
 
 ---
 
-## Objectives
-
-The objectives of this phase were to:
-
-- Simulate a live customer-support intake process
-- Detect new customer enquiries
-- Create Jira tickets automatically using Python
-- Transfer customer information into the correct Jira fields
-- Preserve the original internal Ticket ID
-- Retrieve the Jira-generated issue key
-- Prevent duplicate ticket creation
-
----
-
 ## Jira API Connection
 
 Python was connected directly to Jira using the Jira REST API.
