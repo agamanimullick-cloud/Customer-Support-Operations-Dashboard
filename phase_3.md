@@ -14,5 +14,5 @@ The logic is:
 
 
 
-<img width="470" height="690" alt="Screenshot 2026-08-24 at 2 43 49 AM" src="https://github.com/user-attachments/assets/5f71d753-09a7-4cb3-978b-ee395f87e8aa" />
+<img width="5000" height="720" alt="Screenshot 2026-08-24 at 2 43 49 AM" src="https://github.com/user-attachments/assets/5f71d753-09a7-4cb3-978b-ee395f87e8aa" />
 
