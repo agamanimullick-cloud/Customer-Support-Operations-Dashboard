@@ -28,13 +28,12 @@ Action:
 
 ### 2. Missing Customer Message
 
-If a ticket has been in `New Ticket` for 5 hours and the customer message is empty, it is moved to `Waiting for Customer`.
+If the customer message field is empty, it is moved to `Waiting for Customer`.
 
 JQL:
 
 ```text
 status = "New Ticket"
-AND created <= -5h
 AND description IS EMPTY
 ```
 
