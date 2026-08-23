@@ -12,5 +12,6 @@ The logic is:
 - Resolved — team believes the issue is solved
 - Closed — ticket is fully finished
 
-  <img width="279" height="697" alt="Screenshot 2026-08-22 at 5 11 11 AM" src="https://github.com/user-attachments/assets/ee035dff-57c3-4a67-870a-6d9b8eed6b38" />
+<img width="308" height="700" alt="Screenshot 2026-08-23 at 7 09 02 PM" src="https://github.com/user-attachments/assets/f68393ee-b22b-4107-a5ba-29925449357d" />
+
 
