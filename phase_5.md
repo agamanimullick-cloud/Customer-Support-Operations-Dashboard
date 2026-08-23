@@ -466,24 +466,6 @@ The Ticket ID is the identifier used by the intake dataset, while the Jira Key i
 
 ---
 
-## Duplicate Prevention
-
-The `Jira Key` field also provides a simple duplicate-prevention mechanism.
-
-Only rows where:
-
-```python
-df["Jira Key"].isna()
-```
-
-are selected.
-
-Once a Jira ticket is successfully created, its Jira Key is stored in the live dataset.
-
-When the script runs again, records that already contain Jira Keys are ignored.
-
----
-
 ## Saving the Updated Dataset
 
 After ticket creation, the updated dataset is saved.
