@@ -25,9 +25,9 @@ The aim is to simulate a real business support environment where customer ticket
 
 ## Project Phases
 1. Dataset preparation
-2. Jira project setup and data import
+2. Jira project setup 
 3. Jira workflow design
 4. Jira internal automation
 5. Automated Customer Intake: Excel to Jira Using Python
 6. Jira and Gmail integration using Make
-7. Dashboard and KPI development
+7. Dashboard 
