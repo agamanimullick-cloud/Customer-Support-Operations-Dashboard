@@ -41,8 +41,6 @@ The objectives of this phase were to:
 - Preserve the original internal Ticket ID
 - Retrieve the Jira-generated issue key
 - Prevent duplicate ticket creation
-- Connect the live intake process with the existing Jira workflow
-- Design the system so that it could later be scheduled to run automatically
 
 ---
 
