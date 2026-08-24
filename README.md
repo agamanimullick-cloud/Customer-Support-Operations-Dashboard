@@ -1,33 +1,35 @@
 # Customer Support Automation Project
 
 ## Project Overview
-This project is a customer support operations system built using Jira, Make, Gmail, and a customer support dataset from Kaggle.
 
-## Aim
-The aim is to simulate a real business support environment where customer tickets are imported into Jira, managed through a structured workflow, automatically routed and escalated, and connected to customer email communication.
+This project shows how a customer support system can work from start to finish.
 
-## Project Objectives
-- Import customer support data from Kaggle into Jira
-- Design a structured Jira workflow for managing support tickets
-- Create Jira automations for routing, escalation, due dates, and status changes
-- Connect Jira with Gmail using Make
-- Automatically send customer updates when specific Jira changes occur
-- Create dashboards to track ticket performance and operational bottlenecks
-- Document the complete project for my portfolio
+First, customer support data is cleaned using Python and imported into Jira. Jira is then used to manage the tickets through different stages, with automations for things like routing, due dates and overdue tickets.
 
-## Tools
-- **Kaggle** — dataset source
-- **Jira** — ticket management, workflows, automation, and dashboards
-- **Make** — integration between Jira and external applications
-- **Gmail** — automated customer communication
-- **GitHub** — project documentation 
-- **Python / Pandas** — optional data cleaning and automation 
+For new customer enquiries, the details are added to an Excel file. Python reads the new rows and creates Jira tickets automatically. Once a ticket is created, Make sends the customer a confirmation email through Gmail.
+
+Finally, Jira data is exported into Tableau to create a dashboard showing things like ticket status, priority, support queues and ticket types.
+
 
 ## Project Phases
-1. Dataset preparation
-2. Jira project setup 
-3. Jira workflow design
-4. Jira internal automation
-5. Automated Customer Intake: Excel to Jira Using Python
-6. Jira and Gmail integration using Make
-7. Dashboard 
+
+### Phase 1 – Dataset Preparation
+Clean and prepare the customer support dataset using Python and Pandas.
+
+### Phase 2 – Jira Project Setup
+Import the historical customer support tickets into Jira and set up the required fields.
+
+### Phase 3 – Jira Workflow Design
+Create a structured workflow to manage tickets through each stage of the support process.
+
+### Phase 4 – Jira Internal Automation
+Create automations for triage, routing, workload management, due dates, overdue tickets and closure.
+
+### Phase 5 – Excel to Jira Automation Using Python
+Use Python and the Jira REST API to create new Jira tickets from a live customer intake file.
+
+### Phase 6 – Jira and Gmail Integration Using Make
+Connect Jira with Gmail through Make and automatically send ticket creation confirmation emails to customers.
+
+### Phase 7 – Tableau Dashboard
+Build a Tableau dashboard to analyse ticket status, priority, support queues, ticket types and overall support activity.
