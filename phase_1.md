@@ -6,15 +6,15 @@ The original dataset contained 4,000 customer support tickets in multiple langua
 
 The main fields included:
 
-1. Subject
-2. Customer message
-3. Agent response
-4. Ticket type
-5. Support queue
-6. Priority
-7. Language
-8. Business type
-9. Multiple tag columns
+- Subject
+- Customer message
+- Agent response
+- Ticket type
+- Support queue
+- Priority
+- Language
+- Business type
+- Multiple tag columns
 
 ## Cleaning
 
@@ -73,16 +73,16 @@ The cleaned dataset contains English-language customer support tickets prepared 
 
 ## The final fields include:
 
-1. Ticket ID
-2. Customer Subject
-3. Customer Message
-4. Agent Response
-5. Ticket Type
-6. Support Queue
-7. Priority
-8. Business Type
-9. Tags
-10. Output
+- Ticket ID
+- Customer Subject
+- Customer Message
+- Agent Response
+- Ticket Type
+- Support Queue
+- Priority
+- Business Type
+- Tags
+- Output
 
 The cleaned dataset was saved as a CSV file and uploaded to the GitHub repository.
 
