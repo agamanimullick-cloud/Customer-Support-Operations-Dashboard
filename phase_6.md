@@ -1,10 +1,5 @@
 # Phase 6 – Automated Ticket Confirmation Email
 
-## Overview
-
-Phase 6 adds an automated customer confirmation email after a new Jira ticket is created.
-
-
 ## Make Scenario
 
 The scenario uses:
