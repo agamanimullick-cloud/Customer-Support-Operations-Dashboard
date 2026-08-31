@@ -1,11 +1,5 @@
 # Phase 7 – Customer Support Operations Dashboard
 
-## Overview
-
-Phase 7 focused on creating a Tableau dashboard using Jira ticket data exported to Excel.
-
-The dashboard provides a quick operational view of ticket volume, workload and ticket distribution.
-
 ## Dashboard Metrics
 
 The dashboard includes:
