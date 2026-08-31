@@ -1,9 +1,5 @@
 # Phase 4 - Jira Internal Automation
 
-## Objective
-
-Automate ticket movement, prioritisation, deadlines, and workload allocation inside Jira.
-
 ## Automations
 
 ### 1. New Ticket to Triage
