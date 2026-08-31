@@ -33,3 +33,7 @@ Connect Jira with Gmail through Make and automatically send ticket creation conf
 
 ### Phase 7 – Tableau Dashboard
 Build a Tableau dashboard to analyse ticket status, priority, support queues, ticket types and overall support activity.
+
+
+<img width="1381" height="762" alt="Screenshot 2026-08-31 at 10 17 34 PM" src="https://github.com/user-attachments/assets/1d180a2a-6ddc-4243-a201-51e34ddb6c0e" />
+
