@@ -2,8 +2,6 @@
 
 ## Dashboard Metrics
 
-The dashboard includes:
-
 - Total Open Tickets
 - Total Resolved Tickets
 - Resolved vs Open
