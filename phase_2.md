@@ -1,8 +1,5 @@
 # Phase 2 - Jira Setup
 
-## Objective
-Create a Jira space and import the cleaned customer support dataset.
-
 ## Completed
 - Created a company-managed Jira space
 - Imported 1,391 customer support tickets
