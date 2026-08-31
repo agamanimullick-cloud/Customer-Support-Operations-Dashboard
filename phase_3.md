@@ -2,7 +2,7 @@
 
 New → Triage → Assigned → In Progress → Waiting for Customer → Resolved → Closed
 
-The logic is:
+## Logic
 
 - New — ticket just entered the system
 - Triage — someone reviews type, priority, and queue
