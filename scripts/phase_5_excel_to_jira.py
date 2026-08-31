@@ -1,6 +1,6 @@
 JIRA_URL = "https://practisejira.atlassian.net"
 JIRA_EMAIL = "agamanimullick@gmail.com"
-JIRA_API_TOKEN = "ATATT3xFfGF0e2uei5m2bzAFWQywhKoRJWbSUdDzvtptV0LVPjc3v1-PkGacQTaoheT6jul-TMnXJGXFDrJbdypXH6z2BRE06vyjas5xSejY4mNwcZUb3d7gO32kqRCXCEUuHOctFuBrAXPjRNszeU9PVAa6srxwgLjBSqPqBO1FTpBFK2INWOw=1D23C98F"
+JIRA_API_TOKEN = ""
 
 import requests
 import pandas as pd
