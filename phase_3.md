@@ -2,6 +2,8 @@
 
 New → Triage → Assigned → In Progress → Waiting for Customer → Resolved → Closed
 
+<img width="500" height="730" alt="Screenshot 2026-08-24 at 2 43 49 AM" src="https://github.com/user-attachments/assets/5f71d753-09a7-4cb3-978b-ee395f87e8aa" />
+
 ## Logic
 
 - New — ticket just entered the system
@@ -11,8 +13,3 @@ New → Triage → Assigned → In Progress → Waiting for Customer → Resolve
 - Waiting for Customer — blocked until the customer replies
 - Resolved — team believes the issue is solved
 - Closed — ticket is fully finished
-
-
-
-<img width="500" height="730" alt="Screenshot 2026-08-24 at 2 43 49 AM" src="https://github.com/user-attachments/assets/5f71d753-09a7-4cb3-978b-ee395f87e8aa" />
-
