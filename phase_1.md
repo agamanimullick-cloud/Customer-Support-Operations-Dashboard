@@ -73,16 +73,16 @@ The cleaned dataset contains English-language customer support tickets prepared 
 
 ## The final fields include:
 
-Ticket ID
-Customer Subject
-Customer Message
-Agent Response
-Ticket Type
-Support Queue
-Priority
-Business Type
-Tags
-Output
+1. Ticket ID
+2. Customer Subject
+3. Customer Message
+4. Agent Response
+5. Ticket Type
+6. Support Queue
+7. Priority
+8. Business Type
+9. Tags
+10. Output
 
 The cleaned dataset was saved as a CSV file and uploaded to the GitHub repository.
 
