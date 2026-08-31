@@ -13,7 +13,7 @@ Finally, Jira data is exported into Tableau to create a dashboard showing things
 
 ## Project Phases
 
-### Phase 1 – Dataset Preparation
+### [Phase 1](phase_1.md) – Dataset Preparation
 Clean and prepare the customer support dataset using Python and Pandas.
 
 ### Phase 2 – Jira Project Setup
