@@ -59,30 +59,16 @@ The dataset columns were renamed to make them clearer and more suitable for Jira
 
 Examples:
 
-subject → Customer Subject
-body → Customer Message
-answer → Agent Response
-type → Ticket Type
-queue → Support Queue
-priority → Priority
-business_type → Business Type
-combined tag fields → Tags
-Final Dataset
+- subject → Customer Subject
+- body → Customer Message
+- answer → Agent Response
+- type → Ticket Type
+- queue → Support Queue
+- priority → Priority
+- business_type → Business Type
+- combined tag fields → Tags
+- Final Dataset
 
-The cleaned dataset contains English-language customer support tickets prepared for import into Jira.
-
-## The final fields include:
-
-- Ticket ID
-- Customer Subject
-- Customer Message
-- Agent Response
-- Ticket Type
-- Support Queue
-- Priority
-- Business Type
-- Tags
-- Output
 
 The cleaned dataset was saved as a CSV file and uploaded to the GitHub repository.
 
