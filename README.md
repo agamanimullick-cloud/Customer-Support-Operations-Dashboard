@@ -16,22 +16,22 @@ Finally, Jira data is exported into Tableau to create a dashboard showing things
 ### [Phase 1](phase_1.md) – Dataset Preparation
 Clean and prepare the customer support dataset using Python and Pandas.
 
-### Phase 2 – Jira Project Setup
+### [Phase 2](phase_2.md) – Jira Project Setup
 Import the historical customer support tickets into Jira and set up the required fields.
 
-### Phase 3 – Jira Workflow Design
+### [Phase 3](phase_3.md) – Jira Workflow Design
 Create a structured workflow to manage tickets through each stage of the support process.
 
-### Phase 4 – Jira Internal Automation
+### [Phase 4](phase_4.md) – Jira Internal Automation
 Create automations for triage, routing, workload management, due dates, overdue tickets and closure.
 
-### Phase 5 – Excel to Jira Automation Using Python
+### [Phase 5](phase_5.md) – Excel to Jira Automation Using Python
 Use Python and the Jira REST API to create new Jira tickets from a live customer intake file.
 
-### Phase 6 – Jira and Gmail Integration Using Make
+### [Phase 6](phase_6.md) – Jira and Gmail Integration Using Make
 Connect Jira with Gmail through Make and automatically send ticket creation confirmation emails to customers.
 
-### Phase 7 – Tableau Dashboard
+### [Phase 7](phase_7.md) – Tableau Dashboard
 Build a Tableau dashboard to analyse ticket status, priority, support queues, ticket types and overall support activity.
 
 
